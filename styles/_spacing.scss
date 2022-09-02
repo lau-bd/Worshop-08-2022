@@ -1,6 +1,7 @@
-// base spacing: 15px; 
-// mid spacing: 30px;
-// large spacing: 45px;
-// xl spacing; 60px;
-// xxl spacing: 120px;
-// left/rigth spacing of content: 30px;
+$baseSpacing: 15px;
+$mid: $baseSpacing * 2;
+$lg: $baseSpacing * 3;
+$xl: $baseSpacing * 4;
+$xxl: $baseSpacing * 8;
+
+$contentSpacing: $baseSpacing * 2;
