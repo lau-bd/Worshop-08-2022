@@ -5,12 +5,14 @@
 2. Use these guidelines:
 
     a) colours:
+    
         - #FFFFFFFF  //main colour
         - #000000FF //secondary
         - #8C8C8CFF
         - #696969FF
 
     b) spacing:
+    
         - base spacing: 15px;
         - mid spacing: 30px;
         - large spacing: 45px;
